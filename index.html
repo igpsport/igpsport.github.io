@@ -22,6 +22,25 @@
             box-shadow: 3px 3px 3px #808080;
         }
     </style>
+
+    <script>
+       var trackOutboundLink = function (url) {
+           var redirectTriggered = false;
+           ga('send', 'event', 'outbound', 'click', url, {
+               'hitCallback':
+                   function () {
+                       redirectTriggered = true;
+                       document.location = url;
+                   }
+           });
+           setTimeout(function () {
+               if (!redirectTriggered) {
+                   document.location = url;
+               }
+           }, 1500);
+       }
+    </script>
+
 </head>
 <body>
     <div id="page">
@@ -36,7 +55,7 @@
 
         <div id="download" style="text-align:center;margin-top:30px;">
             <div style="cursor:pointer;width:64px;height:64px;">
-                <a href="https://www.dropbox.com/s/2juxbu3kskbfyox/igpsport_intl_1.3.20170110.2.apk?dl=0
+                <a onclick="trackOutboundLink('https://www.dropbox.com/s/2juxbu3kskbfyox/igpsport_intl_1.3.20170110.2.apk?dl=0'); return false;" href="https://www.dropbox.com/s/2juxbu3kskbfyox/igpsport_intl_1.3.20170110.2.apk?dl=0
 "><img src="down.png" /></a>
             </div>
         </div>
@@ -62,6 +81,8 @@
         ga('create', 'UA-91551414-1', 'auto');
         ga('send', 'pageview');
     </script>
+
+
 
 </body>
 </html>
