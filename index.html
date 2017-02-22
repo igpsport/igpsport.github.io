@@ -1,88 +1,13 @@
-﻿<!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="zh-cn">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, user-scalable=no" />
-    <title>iGPSPORT</title>
-    <style>
-        * {
-            margin: 0px auto;
-            padding: 0px;
-        }
-
-        #page {
-            width: 80%;
-            text-align: center;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-
-        #show img {
-            text-align: center;
-            margin: 3px;
-            box-shadow: 3px 3px 3px #808080;
-        }
-    </style>
-
-    <script>
-       var trackOutboundLink = function (url) {
-           var redirectTriggered = false;
-           ga('send', 'event', 'TotalDownload', 'Download', url, {
-               'hitCallback':
-                   function () {
-                       redirectTriggered = true;
-                       document.location = url;
-                   }
-           });
-           setTimeout(function () {
-               if (!redirectTriggered) {
-                   document.location = url;
-               }
-           }, 1500);
-       }
-    </script>
-
+    <title></title>
+	<script>
+	location.href='./download-igpsport-for-android/';
+	</script>
 </head>
 <body>
-    <div id="page">
-
-        <div id="logo" style="text-align:center;margin-top:60px;">
-            <img src="logo2.png" />
-        </div>
-
-        <div style="margin-top:30px; color:#808080;font-size:10px;">
-            <p>v1.3 For Android 4.4.4-7.0</p>
-        </div>
-
-        <div id="download" style="text-align:center;margin-top:30px;">
-            <div style="cursor:pointer;width:64px;height:64px;">
-                <a onclick="trackOutboundLink('https://www.dropbox.com/s/2juxbu3kskbfyox/igpsport_intl_1.3.20170110.2.apk?dl=0'); return false;" href="https://www.dropbox.com/s/2juxbu3kskbfyox/igpsport_intl_1.3.20170110.2.apk?dl=0
-"><img src="down.png" /></a>
-            </div>
-        </div>
-
-        <div id="show" style="margin-top:30px; display:inline-block;text-align:center;">
-            <img src="app2.png" width="180" />
-            <img src="app1.png" width="180" />
-            <img src="app3.png" width="180" />
-            <img src="app4.png" width="180" />
-            <img src="app5.png" width="180" />
-        </div>
-
-    </div>
-
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-91551414-1', 'auto');
-        ga('send', 'pageview');
-    </script>
-
-
-
 </body>
 </html>
