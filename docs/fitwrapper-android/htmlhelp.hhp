@@ -1,0 +1,48 @@
+
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=htmlhelp.chm
+Contents file=htmlhelp.hhc
+Default topic=overview-summary.html
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x409 English (United States)
+Title= iGPSPORT FitWrapper API Documents For Android
+
+[FILES]
+overview-summary.html
+com\igpsport\fit\package-summary.html
+com\igpsport\fit\FitConvertReturn.html
+com\igpsport\fit\LibFit.html
+com\igpsport\fit\LibFitDecodeBufferStatus.html
+com\igpsport\fitwrapper\package-summary.html
+com\igpsport\fitwrapper\ApplicationTest.html
+com\igpsport\fitwrapper\BuildConfig.html
+com\igpsport\fitwrapper\Constants.html
+com\igpsport\fitwrapper\DeviceSettings.html
+com\igpsport\fitwrapper\ExampleUnitTest.html
+com\igpsport\fitwrapper\FitDecoder.html
+com\igpsport\fitwrapper\FitDecodeResult.html
+com\igpsport\fitwrapper\FitUtil.html
+com\igpsport\fitwrapper\GpsMath.html
+com\igpsport\fitwrapper\Point.html
+com\igpsport\fitwrapper\R.attr.html
+com\igpsport\fitwrapper\R.html
+com\igpsport\fitwrapper\R.string.html
+com\igpsport\fitwrapper\RideActivityResult.html
+com\igpsport\fitwrapper\WaypointArray.html
+com\igpsport\fitwrapper\command\package-summary.html
+com\igpsport\fitwrapper\command\CommandBase.html
+com\igpsport\fitwrapper\command\CommandType.html
+com\igpsport\fitwrapper\command\DeleteMultipleFitsCommand.html
+com\igpsport\fitwrapper\command\DeviceInfoSettingCommand.html
+com\igpsport\fitwrapper\command\GetDeviceInfoCommand.html
+com\igpsport\fitwrapper\command\GetHistoriesListCommand.html
+com\igpsport\fitwrapper\command\GetMultipleFitsCommand.html
+com\igpsport\fitwrapper\command\PackageSender.html
+com\igpsport\fitwrapper\parser\package-summary.html
+com\igpsport\fitwrapper\parser\DeviceInfoParser.html
+com\igpsport\fitwrapper\parser\HistoryResultParser.HistoryActivity.html
+com\igpsport\fitwrapper\parser\HistoryResultParser.html
+
+[INFOTYPES]

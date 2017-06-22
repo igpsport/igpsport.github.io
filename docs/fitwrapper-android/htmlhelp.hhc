@@ -1,0 +1,53 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--Sitemap 1.0-->
+<META content="AurigaDoc" name="generator">
+</HEAD>
+<BODY>
+<OBJECT type="text/site properties"><param name="ImageType" value="Folder"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="com.igpsport.fit"><param name="Local" value="com\igpsport\fit\package-summary.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FitConvertReturn"><param name="Local" value="com\igpsport\fit\FitConvertReturn.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="LibFit"><param name="Local" value="com\igpsport\fit\LibFit.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="LibFitDecodeBufferStatus"><param name="Local" value="com\igpsport\fit\LibFitDecodeBufferStatus.html"></OBJECT></LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="com.igpsport.fitwrapper"><param name="Local" value="com\igpsport\fitwrapper\package-summary.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationTest"><param name="Local" value="com\igpsport\fitwrapper\ApplicationTest.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="BuildConfig"><param name="Local" value="com\igpsport\fitwrapper\BuildConfig.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Constants"><param name="Local" value="com\igpsport\fitwrapper\Constants.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="DeviceSettings"><param name="Local" value="com\igpsport\fitwrapper\DeviceSettings.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="ExampleUnitTest"><param name="Local" value="com\igpsport\fitwrapper\ExampleUnitTest.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FitDecoder"><param name="Local" value="com\igpsport\fitwrapper\FitDecoder.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FitDecodeResult"><param name="Local" value="com\igpsport\fitwrapper\FitDecodeResult.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="FitUtil"><param name="Local" value="com\igpsport\fitwrapper\FitUtil.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GpsMath"><param name="Local" value="com\igpsport\fitwrapper\GpsMath.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Point"><param name="Local" value="com\igpsport\fitwrapper\Point.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="R.attr"><param name="Local" value="com\igpsport\fitwrapper\R.attr.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="R"><param name="Local" value="com\igpsport\fitwrapper\R.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="R.string"><param name="Local" value="com\igpsport\fitwrapper\R.string.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="RideActivityResult"><param name="Local" value="com\igpsport\fitwrapper\RideActivityResult.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="WaypointArray"><param name="Local" value="com\igpsport\fitwrapper\WaypointArray.html"></OBJECT></LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="com.igpsport.fitwrapper.command"><param name="Local" value="com\igpsport\fitwrapper\command\package-summary.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CommandBase"><param name="Local" value="com\igpsport\fitwrapper\command\CommandBase.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="CommandType"><param name="Local" value="com\igpsport\fitwrapper\command\CommandType.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteMultipleFitsCommand"><param name="Local" value="com\igpsport\fitwrapper\command\DeleteMultipleFitsCommand.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="DeviceInfoSettingCommand"><param name="Local" value="com\igpsport\fitwrapper\command\DeviceInfoSettingCommand.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetDeviceInfoCommand"><param name="Local" value="com\igpsport\fitwrapper\command\GetDeviceInfoCommand.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetHistoriesListCommand"><param name="Local" value="com\igpsport\fitwrapper\command\GetHistoriesListCommand.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="GetMultipleFitsCommand"><param name="Local" value="com\igpsport\fitwrapper\command\GetMultipleFitsCommand.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="PackageSender"><param name="Local" value="com\igpsport\fitwrapper\command\PackageSender.html"></OBJECT></LI>
+</UL>
+</LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="com.igpsport.fitwrapper.parser"><param name="Local" value="com\igpsport\fitwrapper\parser\package-summary.html"></OBJECT><UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="DeviceInfoParser"><param name="Local" value="com\igpsport\fitwrapper\parser\DeviceInfoParser.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="HistoryResultParser.HistoryActivity"><param name="Local" value="com\igpsport\fitwrapper\parser\HistoryResultParser.HistoryActivity.html"></OBJECT></LI>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="HistoryResultParser"><param name="Local" value="com\igpsport\fitwrapper\parser\HistoryResultParser.html"></OBJECT></LI>
+</UL>
+</LI>
+</UL>
+</BODY>
+</HTML>
